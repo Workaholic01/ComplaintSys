@@ -1,0 +1,16 @@
+Exception handling:
+  1- I have written a mechanism for generic exceptions handling using asp.net core middleware. 
+Security
+  1- I would implement OAUTH protocol to secure API's from unauthorized access.
+  
+API documentation
+  - I have integrated swagger for documentation of API
+Testing
+  - Unit testing framework should be implemented for testing of features.
+  
+Logging
+  - A separate layer for Logging will be implemented as you can see in solution I have created a folder for Loggin
+Fault Tolerance
+  - API's monitoring mechanisms can be applied to see the performance of API's and alerts in case anything goes wrong in production
+Performance
+  - Performance in sense of load / robustness will be done and code will be effecient enough to handle non-functional requirements
